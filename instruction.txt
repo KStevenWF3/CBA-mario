@@ -1,0 +1,22 @@
+1.) Objectif:
+
+Déplacement de Mario sur l’écran.
+
+
+
+2.) Ressources :
+
+👉 https://api.jquery.com/keydown/
+
+👉 https://developer.mozilla.org/en- US/docs/Web/API/Document/keydown_event
+
+
+3.) Déplacement :
+
+👉 A ta disposition, un document HTML, un fichier JS , un fichier CSS et des images de Mario.
+
+👉 A l'aide du clavier et des touches directionnelles, déplacez Mario sur votre écran. L'image de Mario doit changer en fonction de sa direction.
+
+Exemple: Flèche droite, déplacement à droite avec profil droit. Flèche haut, déplacement haut et profil dos…
+
+
